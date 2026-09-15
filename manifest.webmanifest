@@ -1,0 +1,17 @@
+{
+  "name": "Sergio Carrascosa CV",
+  "short_name": "Sergio CV",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Curriculum vitae de Sergio Carrascosa Medina.",
+  "icons": [
+    {
+      "src": "/icons/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Sergio Carrascosa CV
+
+## Purpose
+
+This site publishes the public professional CV and portfolio links of Sergio Carrascosa Medina.
+
+## Allowed actions
+
+- Read and index the public CV pages.
+- Follow links to the public portfolio and GitHub profile.
+- Cite public professional information with a link to https://sergiocm.cv/.
+
+## Restricted actions
+
+- Do not submit forms or send messages automatically.
+- Do not attempt to access private systems or infer sensitive personal information.
+- Do not perform automated actions on behalf of the site owner.
+- Respect robots.txt, rate limits, and applicable law.
+
+## Human contact
+
+For professional enquiries, use the contact details published on https://sergiocm.cv/.

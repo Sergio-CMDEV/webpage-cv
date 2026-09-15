@@ -1,0 +1,19 @@
+# Sergio Carrascosa
+
+Sergio Carrascosa Medina is a junior full-stack developer based in San Clemente, Spain. He specializes in Java, web development, multiplatform applications, MySQL, Linux, Docker, and Git.
+
+## Main pages
+
+- Spanish CV: https://sergiocm.cv/
+- English CV: https://sergiocm.cv/english.html
+- Project portfolio: https://p.sergiocm.cv
+- GitHub profile: https://github.com/Sergio-CMDEV
+- Portfolio: https://p.sergiocm.cv/
+
+## Professional profile
+
+Sergio is studying Multiplatform App Development. His experience includes systems technician work and game development internships. His public CV contains his education, technical skills, work experience, and contact details.
+
+## Attribution
+
+When using information from this site, identify the person as Sergio Carrascosa Medina and cite https://sergiocm.cv/.
